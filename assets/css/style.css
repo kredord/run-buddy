@@ -201,7 +201,6 @@ section {
 }
 
 .trainer img {
-    
     width: 35%;
     float:left;
     
@@ -212,3 +211,28 @@ section {
     float: left;
     width: 65;
 }
+
+.text-left {
+    text-align:left;
+}
+
+.text-right {
+    text-align:right;
+}
+
+.trainer-bio h3 {
+    font-size: 32px;
+    margin-bottom: 8px
+}
+
+.trainer-bio h4 {
+    font-weight: lighter;
+    font-size: 26px;
+    margin-bottom: 25px;
+}
+
+.trainer-bio p {
+    font-size: 17px;
+    line-height: 1.3;
+}
+
