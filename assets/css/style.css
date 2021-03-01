@@ -82,6 +82,19 @@ section {
     position: relative;
 }
 
+/* .hero div { 
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;} */
+
+/* .hero p {
+    line-height: 1.7;
+    color: #fff;
+    font-size: 20px;
+} */
+
 .hero-form {
     border:solid 3px #024e76;
     background-color: #fce138;
