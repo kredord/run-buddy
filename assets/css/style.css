@@ -106,19 +106,6 @@ section {
     color: #fce138;
 }
 
-/* .hero div { 
-    font-weight: bold;
-    font-size: 36px;
-    color: #fce138;
-    margin: 0;
-    display: inline;} */
-
-/* .hero p {
-    line-height: 1.7;
-    color: #fff;
-    font-size: 20px;
-} */
-
 .hero-form {
     border:solid 3px #024e76;
     background-color: #fce138;
@@ -160,11 +147,6 @@ section {
   }
 /* Hero style end */
 
-
-.intro {
-    text-align: center;
-}
-
 .intro p {
     /* add this alongside your other declaratrions */
     line-height: 1.7;
@@ -172,12 +154,12 @@ section {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
 }
 
 
 /* WHAT YOU DO SECTION: */
 .steps {
-    text-align: center;
     background: #fce138;
 }
 
@@ -208,10 +190,11 @@ section {
 .section-title {
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
     border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
 }
 
 .primary-border {
@@ -223,7 +206,7 @@ section {
 }
 
 .trainers {
-    text-align:center;
+    
 }
 
 .trainer {
@@ -273,7 +256,6 @@ section {
 
 .contact {
     background:#024e76;
-    text-align: center;
 }
 
 .contact h2 {
@@ -310,4 +292,8 @@ section {
 
 .contact-info a {
     color:#fce138
+}
+
+.flex-row {
+    display: flex;
 }
