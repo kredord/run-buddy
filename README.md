@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ##Purpose
 A website that offers fitness training services
@@ -11,4 +11,6 @@ A website that offers fitness training services
 https://katredford.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Katie Redford
+Made with ❤️  by Katie Redford
+
+### copyright 2021 Run Buddy, Inc
